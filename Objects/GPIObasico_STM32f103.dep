@@ -1,5 +1,5 @@
 Dependencies for Project 'GPIObasico', Target 'STM32f103': (DO NOT MODIFY !)
-F (.\main.c)(0x5EEA8A66)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103CB-I.\RTE\_STM32f103-IC:\Users\vladeex\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\vladeex\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\main.c)(0x5EEC1B09)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103CB-I.\RTE\_STM32f103-IC:\Users\vladeex\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\vladeex\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (C:\Users\vladeex\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\stm32f10x.h)(0x5825EF3C)
 I (.\RTE\_STM32f103\RTE_Components.h)(0x5EE3F4E8)
 I (C:\Users\vladeex\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h)(0x5E8F87F2)
@@ -9,6 +9,9 @@ I (C:\Users\vladeex\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\c
 I (C:\Users\vladeex\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F87F2)
 I (C:\Users\vladeex\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include\system_stm32f10x.h)(0x5825EF3C)
 I (capa_de_abstraccion_gpio.h)(0x5EEA891C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEC30B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEC30B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5CEC30B4)
 F (.\capa_de_abstraccion_gpio.h)(0x5EEA891C)()
 F (.\capa_de_abstraccion_gpio.c)(0x5EEA891C)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103CB-I.\RTE\_STM32f103-IC:\Users\vladeex\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\vladeex\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F10X_MD-o .\objects\capa_de_abstraccion_gpio.o --omf_browse .\objects\capa_de_abstraccion_gpio.crf --depend .\objects\capa_de_abstraccion_gpio.d)
 I (capa_de_abstraccion_gpio.h)(0x5EEA891C)
